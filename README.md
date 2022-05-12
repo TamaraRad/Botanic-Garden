@@ -1,1 +1,1 @@
-# Botanic-Garden
+# Botanical-Garden
